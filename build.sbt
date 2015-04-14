@@ -35,7 +35,6 @@ libraryDependencies ++= Seq(
   "com.novocode"  %  "junit-interface"   % "0.10"   % "test",
   "log4j"         %  "log4j"             % "1.2.17",
   "org.mockito"   %  "mockito-core"      % "1.9.0"  % "test",
-  "org.mongodb"   %  "mongo-java-driver" % "2.7.2",
-  "silvertip"     %  "silvertip"         % "0.4.4-SNAPSHOT"
+  "org.mongodb"   %  "mongo-java-driver" % "2.7.2"
 )
 
